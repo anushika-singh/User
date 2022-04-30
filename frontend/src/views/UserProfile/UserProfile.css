@@ -1,0 +1,17 @@
+.head{
+    margin-bottom: 35px;
+}
+.cc{
+    width: 50vw;
+}
+.dan{
+    margin-top: 50px;
+    width: 100px;
+    background-color: brown;
+    outline: none;
+    border: 0ch;
+}
+.dan:hover{
+    background-color: red;
+    margin-top: 50px;
+}
